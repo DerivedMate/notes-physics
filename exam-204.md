@@ -13,6 +13,10 @@ Treści nauczania – wymagania szczegółowe
         R = \rho\frac{l}{S}
       $$
    3. [ ] rysuje charakterystykę prądowo-napięciową opornika podlegającego prawu Ohma;  
+      $$
+      U = IR
+      $$
+      ¡$R$ opisuje przewodnik, a $U$ i $I$ układ!  
       ![I(U) for Ohm's law](./recursos/lay_de_ohm.jpg)
    4. [ ] stosuje prawa dwa Kirchhoffa do analizy obwodów elektrycznych;  
       Pierwsze prawo: sum of input currents is equal to the sum of leaving currents.
@@ -53,7 +57,7 @@ Treści nauczania – wymagania szczegółowe
       Niech $H$ będzie natężeniem pola magnetycznego,  
       $B$ wektorem jego indukcji,  
       $I$ natężeniem prądu w przewodniku,  
-      $\mu_0$ przenikliwością magnetyczną próżni ($\bold{\mu_0 = 4\pi \times 10^-7 \frac{H}{m}}$),  
+      $\mu_0$ przenikliwością magnetyczną próżni ($\bold{\mu_0 = 4\pi \times 10^-7 \frac{H}{m}}$ where $H = \frac{kg\cdot m^2}{s^2A^2}$),  
       a $\mu$ przenikliwością mag. przewodnika  
       We wszystkich równaniach:
       $$
