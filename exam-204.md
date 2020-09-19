@@ -19,7 +19,7 @@ Treści nauczania – wymagania szczegółowe
       ¡$R$ opisuje przewodnik, a $U$ i $I$ układ!  
       ![I(U) for Ohm's law](./recursos/lay_de_ohm.jpg)
    4. [ ] stosuje prawa dwa Kirchhoffa do analizy obwodów elektrycznych;  
-      Pierwsze prawo: sum of input currents is equal to the sum of leaving currents.
+      Pierwsze prawo: sum of the input currents of an intersection is equal to the sum of its leaving currents.
       $$
       \sum_{i}^{n_{in}} I_i = \sum_{i}^{n_{out}} I_i
       $$
@@ -98,7 +98,7 @@ Treści nauczania – wymagania szczegółowe
       $$
       Materiały dzielą się na 3(/4) grupy ze względu na przenikalność magnetyczną:
       1. Diamagnetyki     : $m \lt 1$
-      2. Paramagnetyki    : $m \lesssim 1$
+      2. Paramagnetyki    : $m \gtrsim 1$
       3. Ferromagnetyki   : $m \gg 1$
       4. *Nadprzewodniki* : $m = 0$
    5. [ ] opisuje zastosowanie materiałów ferromagnetycznych;  
@@ -129,7 +129,7 @@ Treści nauczania – wymagania szczegółowe
    11. [ ] stosuje regułę Lenza w celu wskazania kierunku przepływu prądu indukcyjnego;
       ![Reguła lenza](./recursos/lenz.jpeg.png)
       Przy zbliżaniu magnesu do przewodu (pętli), generuje się pole magnetyczne, które utrudnia jego przybliżanie, natomiast w drugą stronę, utrudnia jego wyciąganie. Słowem: skurwesyn.
-      Dzieje się tak, ponieważ zmieniające się pole magnetyczne indukuje siłę elektromotoryczną, przez którą płynie prąd, a dzięki temu powstaje pole magnetyczne.
+      Dzieje się tak, ponieważ zmieniające się pole magnetyczne indukuje siłę elektromotoryczną, przez którą płynie prąd, a dzięki temu powstaje pole magnetyczne o biegunach przeciwnych do pola generowanego przez magnes.
    12. [ ] opisuje budowę i zasadę działania prądnicy i transformatora;   
          1. Prądnica:  
          As the wire-frame rotates in the magnetic field, an EMF in induced, thus generating a current. Each arm of the wire-frame is connected to only one *slip ring*, which are in turn connected to carbon brushes. The direction of the current changes when the wire-frame is in a vertical position (because, from the right hand rule, if the force acts 'upwards,' the current in induced into the screen and vv.)  
@@ -188,6 +188,15 @@ Treści nauczania – wymagania szczegółowe
       Magnetic - coil: $E_m = \frac{1}{2}LI^2$  
       Electric - capacitor: $E_C = \frac{1}{2}\frac{1}{C}Q^2$
       $$E_m + E_C = \text{const}$$
+
+      Równania kondensatora:  
+      General capacity: $C = \frac{Q}{\Delta V}$  
+      Spherical capacitor: $C = \frac{Q}{\Delta V} = \frac{Q}{\frac{kQ}{R}} = \frac{R}{k} = 4\pi\epsilon R = \frac{4\pi R}{\mu\mu_0c^2}$  
+      Flat capacitor: $\epsilon \frac{S}{d} = \frac{S}{d\mu\mu_0c^2}$
+        
+      Łączenie szeregowe: $\frac{1}{C} = \sum_i^n \frac{1}{C_i}$  
+      Łączenie równoległe: $C = \sum_i^n C_i$  
+      (odwrotnie jak z opornikami)
       
    14. [ ] opisuje zjawisko samoindukcji;   
       Indukcja wywołana w przewodzie przez płynący w niej prąd. Indukuje EMF, który sprzeciwia się zmianą natężenia prądu (zgodnie z prawem Lenza).  
@@ -201,7 +210,8 @@ Treści nauczania – wymagania szczegółowe
       $$
       ![działanie samoindukcji na wykresie I(t)](./recursos/I(t)_inductance.jpeg)  
 
-   15. [ ] opisuje działanie diody jako prostownika.
+   15. [ ] opisuje działanie diody jako prostownika.  
+      Dzieje się tak, ponieważ dioda przez połowę okresu przewodzi prąd, a przez drugą nie.  
       ![](./recursos/prostownik.jpeg.png)
 3.  Wymagania przekrojowe. Oprócz wiedzy z wybranych działów fizyki, uczeń:
     1. [ ] przedstawia jednostki wielkości fizycznych wymienionych w podstawie programowej, opisuje ich związki z jednostkami podstawowymi;
