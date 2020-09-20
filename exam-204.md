@@ -87,7 +87,7 @@ Treści nauczania – wymagania szczegółowe
       F_d = F_L \rArr \frac{v^2m}{r}=qBv \rArr \frac{2\pi}{T} = \frac{qB}{m} \rArr T = \frac{2\pi m}{qB}\\
       r = \frac{mv}{qB}
       $$
-      Kierunki można uzyskać z reguły prawej dłoni:  
+      Kierunki można uzyskać z reguły **lewej dłoni** (lewa jest od sił, a prawa do EMF):  
       $(thumb, index, middle) = (F, B, v)$
 
    4. [ ] opisuje wpływ materiałów na pole magnetyczne;  
@@ -145,7 +145,7 @@ Treści nauczania – wymagania szczegółowe
          Varying current in the input coil creates a varying magnetic flux in the core, which then induces an EMF in the second coil, which then induces a current in the output coil.  
          ![Transformator](./recursos/transformer.png)
          $$
-         P_P = P_S \rArr U_PI_P = U_SI_S \rArr \frac{U_P}{U_S} = \frac{I_S}{I_P} = \frac{n_P}{n_s} = p^{-1} \\
+         P_P = P_S \rArr U_PI_P = U_SI_S \rArr \frac{U_P}{U_S} = \frac{I_S}{I_P} = \frac{n_P}{n_S} = p^{-1} \\
          \text{przekładnia transformatora} \\
          p = \frac{n_S}{n_P}
          $$
