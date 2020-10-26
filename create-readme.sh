@@ -2,7 +2,7 @@ content="
 # Notes \n
 "
 
-for f in *.html **/*.html
+for f in **/*.html **/**/*.html
 do
   path="./$f"
   content="$content\n1. [$path]($path)  "
