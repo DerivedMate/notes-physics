@@ -17,7 +17,7 @@ Treści nauczania – wymagania szczegółowe
       U = IR
       $$
       ¡$R$ opisuje przewodnik, a $U$ i $I$ układ!  
-      ![I(U) for Ohm's law](./recursos/lay_de_ohm.jpg)
+      ![I(U) for Ohm's law](../recursos/lay_de_ohm.jpg)
    4. [ ] stosuje prawa dwa Kirchhoffa do analizy obwodów elektrycznych;  
       Pierwsze prawo: sum of the input currents of an intersection is equal to the sum of its leaving currents.
       $$
@@ -50,9 +50,9 @@ Treści nauczania – wymagania szczegółowe
       $$
 2. Magnetyzm, indukcja magnetyczna. Uczeń:
    1. [ ] szkicuje przebieg linii pola magnetycznego w pobliżu magnesów trwałych i przewodników z prądem (przewodnik liniowy, pętla, zwojnica);  
-      ![Linie pola magnetycznego w pobliżu pęli](../physics/recursos/magnetic_field_lines_circ.jpeg)
-      ![Linie pola magnetycznego w pobliżu kabla](recursos/magnetic_field_lines_wire.jpeg)
-      ![Linie pola magnetycznego w pobliżu cewki](recursos/magnetic_field_lines_coil.jpeg)
+      ![Linie pola magnetycznego w pobliżu pęli](../recursos/magnetic_field_lines_circ.jpeg)
+      ![Linie pola magnetycznego w pobliżu kabla](../recursos/magnetic_field_lines_wire.jpeg)
+      ![Linie pola magnetycznego w pobliżu cewki](../recursos/magnetic_field_lines_coil.jpeg)
    2. [ ] oblicza wektor indukcji magnetycznej wytworzonej przez przewodniki z prądem (przewodnik liniowy, pętla, zwojnica);  
       Niech $H$ będzie natężeniem pola magnetycznego,  
       $B$ wektorem jego indukcji,  
@@ -104,9 +104,9 @@ Treści nauczania – wymagania szczegółowe
    5. [ ] opisuje zastosowanie materiałów ferromagnetycznych;  
       Ferromagnetyki to materiały, które mogą stać się stałymi magnesami. Wykorzystywane są np. w generatorach, transformatorach, czy też głośnikach.
    6. [ ] analizuje siłę elektrodynamiczną działającą na przewodnik z prądem w polu magnetycznym;  
-      ![Siły w układzie dwóch przewodów z prądem](recursos/two_wires.jpg)
+      ![Siły w układzie dwóch przewodów z prądem](../recursos/two_wires.jpg)
    7. [ ] opisuje zasadę działania silnika elektrycznego;
-      ![budowa silnika elektrycznego (DC)](recursos/motor_dc.jpeg.png)  
+      ![budowa silnika elektrycznego (DC)](../recursos/motor_dc.jpeg.png)  
       Działanie: na wirnik oddziałują siły **elektro magnetyczne** ($F_M = \sum_{i} F_{Li} = l\vec{I}\times\vec{B} = lIB\sin(\vec{I}, \vec{B})$ gdzie l jest długością boku wirnika), które generują Torque ($\tau = F_MR$ gdzie $R$ to połowa odległości między ramionami wirnika). Następnie, dzięki **komutatorom**, kierunek przepływu prądu się zmienia i wirnik kontynuuje obrót (inaczej by machał z jednej w drugą). (Szczotki dostarczają prąd do wirnika)
    8. [ ] oblicza strumień indukcji magnetycznej przez powierzchnię;  
       $\vec{S}$ - vector normalnej do powierzchni o polu $S$
@@ -127,7 +127,7 @@ Treści nauczania – wymagania szczegółowe
       L = \frac{n^2\mu\mu_0S}{l} \rArr \epsilon = -L\frac{\partial I}{\partial t}
       $$
    11. [ ] stosuje regułę Lenza w celu wskazania kierunku przepływu prądu indukcyjnego;
-      ![Reguła lenza](./recursos/lenz.jpeg.png)
+      ![Reguła lenza](../recursos/lenz.jpeg.png)
       Przy zbliżaniu magnesu do przewodu (pętli), generuje się pole magnetyczne, które utrudnia jego przybliżanie, natomiast w drugą stronę, utrudnia jego wyciąganie. Słowem: skurwesyn.
       Dzieje się tak, ponieważ zmieniające się pole magnetyczne indukuje siłę elektromotoryczną, przez którą płynie prąd, a dzięki temu powstaje pole magnetyczne o biegunach przeciwnych do pola generowanego przez magnes.
    12. [ ] opisuje budowę i zasadę działania prądnicy i transformatora;   
@@ -140,10 +140,10 @@ Treści nauczania – wymagania szczegółowe
          \epsilon_0 = nBS\omega\\
          \epsilon_{\text{ind}} = \epsilon_0\sin(\omega t)
          $$
-         ![Prądnica AC](recursos/ac_gen.jpeg.png)  
+         ![Prądnica AC](../recursos/ac_gen.jpeg.png)  
          1.  Transformator  
          Varying current in the input coil creates a varying magnetic flux in the core, which then induces an EMF in the second coil, which then induces a current in the output coil.  
-         ![Transformator](./recursos/transformer.png)
+         ![Transformator](../recursos/transformer.png)
          $$
          P_P = P_S \rArr U_PI_P = U_SI_S \rArr \frac{U_P}{U_S} = \frac{I_S}{I_P} = \frac{n_P}{n_S} = p^{-1} \\
          \text{przekładnia transformatora} \\
@@ -208,11 +208,11 @@ Treści nauczania – wymagania szczegółowe
       $$
       I = \frac{\epsilon-\epsilon_{ind}}{R_{\text{total}}}
       $$
-      ![działanie samoindukcji na wykresie I(t)](./recursos/I(t)_inductance.jpeg)  
+      ![działanie samoindukcji na wykresie I(t)](../recursos/I(t)_inductance.jpeg)  
 
    15. [ ] opisuje działanie diody jako prostownika.  
       Dzieje się tak, ponieważ dioda przez połowę okresu przewodzi prąd, a przez drugą nie.  
-      ![](./recursos/prostownik.jpeg.png)
+      ![](../recursos/prostownik.jpeg.png)
 3.  Wymagania przekrojowe. Oprócz wiedzy z wybranych działów fizyki, uczeń:
     1. [ ] przedstawia jednostki wielkości fizycznych wymienionych w podstawie programowej, opisuje ich związki z jednostkami podstawowymi;
     2. [ ] samodzielnie wykonuje poprawne wykresy (właściwe oznaczenie i opis osi, wybór skali, oznaczenie niepewności punktów pomiarowych);

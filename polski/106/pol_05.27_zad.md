@@ -1,0 +1,3 @@
+W podanym fragmencie, Różewicz przedstawia świat, w którym ludzie, pomimo zbliżania się do siebie, zaczynają się od siebie oddalać, zmieniać się, zamykać w sobie i niszczeć. Jest to wizja, według mnie, ponadczasowa, do której analogie możemy znaleźć nawet 60 lat po ukazaniu się tego dzieła. 
+
+W naszej, przesiąkniętej postępem technologicznym rzeczywistości jesteśmy od siebie na przesunięcie kciuka (plus, minus dwa kliknięcia), jednak ta bliskość wyłącznie nas od siebie oddaliła. Paradoksalnie, prostota kontaktu z drugim człowiekiem nas do niego zniechęciła; a liczba "facebookowych znajomych" sprawiła, że stworzyliśmy wokół siebie skorupy niedopuszczające innych, pozwalające na rozrost naszego egoizmu.

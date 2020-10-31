@@ -1,0 +1,2 @@
+1. Po razy wiele w czasach dalekich spod głazu niewoli, który tę ziemię tłoczył, **wzbijał się był** słup ognisty ku obiecanej krainie wolności wiodący i gromady ludzi za nim szły.
+2. **Przyjechał był** do pobliskiego stąd miasteczka i uwił tam sobie gniazdo nieduże
