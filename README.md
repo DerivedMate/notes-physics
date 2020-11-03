@@ -1,5 +1,5 @@
  
-1. [README](./README.html)
+1. [index](./index.html)
 # polski
 ## 107
 1. [2020-10-26](./polski/107/2020-10-26.html)
