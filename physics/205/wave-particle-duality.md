@@ -1,11 +1,24 @@
 # Model drabinkowy energii (Bohra)
 $$
-E_n = \frac{E_1}{n^2}
+E_n = E_1n^{-2} \\
+v_n = v_1n^{-1} \\
+r_n = r_1n^2
+
 $$
 ## Warunek zaabsorbowania photonu
 $$
 E_\gamma = \Delta_i^j E_{e^-} = E_1 [\frac{1}{j^2} - \frac{1}{i^2}]
 $$
+
+# Fotokomórka
+Fotokomórka działa na zasadzie zjawiska fotoelektrycznego zewnętrznego (jeśli foton padający na powierzchnię fotokomórki ma energię $E_{\gamma} \ge W_{\text{wyjścia}}$, to go wybija. **¡1 photon - 1 elektron!**). Jeśli na fotokomórkę pada światło (zdolne do wybicia elektronów), to płynie w niej prąd $\{I_0 : U = 0\}$ (gdyż część elektronów i tak dostaje się do drugiej okładki, nawet bez dodatkowego napięcia).
+
+W fotokomórce, napięcie powinno być zgodne z kierunkiem przewodzenia, bo inaczej wybite elektrony będą wracały na stare miejsce; aż do momentu kiedy $U = U_{\text{ham}}$ kiedy to elektrony nie wychodzą i prąd nie płynie :
+$$
+KE_{\text{mx}e^-} = W_{\text{pol.elek}} \\
+\lrArr qU = \frac{1}{2}mv_\text{max}^2
+$$
+
 
 # Lampa rent
 Mamy 2 płytki i jebitne napięcie między nimi. Z pola elek. wiemy, że: $\Delta E_k = qU$ ($q = e^-$ - ładunek elektronu, $U$ - napięcie). Zakładamy też, że elektrony na stracie nie mają żadnej prędkości, więc:
@@ -60,4 +73,20 @@ $$
 Później de Broglie był zazdrosny i stwierdził, że skoro fala może mieć pęd, to materia może mieć długość fali:
 $$
 \lambda = \frac{h}{p} = \frac{h}{mv}
+$$
+
+# Widma
+**widmo** - rozszczepione na poszczególne barwy promieniowanie.   
+Rodzaje:  
+1. Emisyjne - emitowane przez rozgrzany gaz.
+2. Absorpcyjne - przepuszczane przez zimny gaz.
+3. Ciągłe / Liniowe
+
+## Wzór emisyjny
+Niech   
+$R$ będzie stałą Rydberga $R=1.097 \cdot 10^7m^{-1}$,  
+$n$ numerem serii - odbitą **na** którą *"spada"*,  
+$k$ numerem linii - orbitą relatywną, **z** której *"spada"* : $k = n + i | n,i \in \N$
+$$
+\frac{1}{\lambda} = R [\frac{1}{n^2} - \frac{1}{k^2}]
 $$

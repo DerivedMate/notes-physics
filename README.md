@@ -1,4 +1,5 @@
  
+1. [README](./README.html)
 1. [index](./index.html)
 # polski
 ## 107
@@ -39,6 +40,7 @@
 1. [zaprzeszly](./polski/106/zaprzeszly.html)
 # physics
 ## 205
+1. [pg](./physics/205/pg.html)
 1. [wave-particle-duality](./physics/205/wave-particle-duality.html)
 ## 204
 1. [exam-204](./physics/204/exam-204.html)

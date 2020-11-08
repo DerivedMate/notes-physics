@@ -19,3 +19,15 @@ Ale potem:
 
 ## "Hymn do Nirwany"
 Hymn był do osób, więc następuje personifikacja Nirwany. Turpizm -dekorum hymnu naruszone słownictwem typu "kał". Jest to też modlitwa ($\lArr$ parafraza Ojcze nasz). Te wołania przypominają litanię (wyliczenie atrybutów (czemu zwracam się do ciebie); błagalna)
+
+
+## Melodia Mgieł Nocnych
+Spokojna noc. Ukojona uśpiona natura, która przekazuje je czytelnikom. Eufonia śćszch etc. Onomatopeje. Dotyk: puszystość, delikatność. Chłód. Rytm (powolny, /yry dyry yry yryy/), zarys refrenu; kołysanka
+
+## Narodziny Afrodyty
+
+## Odetchnienie od wszystkiego
+Nirwana, sztuka, natura
+
+## Nurty w sztuce
+impresjonizm (uchwycenie momentu (jakbyśmy tam byli)) [oddziaływanie na wszystkie zmysły (**synestezja**) [epitety, porównania, światło, rodzaje barw, muzyczność (rytm opisowy, naśladowczy, onomatopeje, podobne głoski (szumiące, szeleszczące, syczące (**eufonia/instrumentacja głoskowa**)))]]
